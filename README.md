@@ -2,6 +2,7 @@
 Read Buddy - Farook College Book Sharing Platform 📚
 
 Welcome to Read Buddy, a student-led initiative to facilitate book sharing among students of Farook College. This platform enables students to add, search, and borrow books from their peers in a seamless way.
+
 Team members
 
     Arifa rehana
