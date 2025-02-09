@@ -69,7 +69,6 @@ async function addBook(event) {
         console.error("Error adding book:", error);
     }
 }
-
 // 📌 Delete a Book
 // 📌 Delete a Book
 async function deleteBook(bookId) {
