@@ -37,11 +37,11 @@ npm install
 
 Configure Environment Variables
 
-Create a .env file in the root directory and add:
+<!-- Create a .env file in the root directory and add:
 
 SUPABASE_URL=https://uwibafgawvjvbfcsmtmd.supabase.co
 SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InV3aWJhZmdhd3ZqdmJmY3NtdG1kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzkwMTIwNjUsImV4cCI6MjA1NDU4ODA2NX0.Um5liDrHBVl0wA-cUXud1a84yvLXtC0Opc_hjCOA-yE 
-PORT=5000
+PORT=5000 -->
 
 Run the Server
 
